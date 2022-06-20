@@ -2,7 +2,7 @@
 
 I'm Jeannie, a fullstack engineer
 
-- 🔭 I’m currently working on [V2 of a gamified productivity app](pokidoro.netlify.app)
+- 🔭 I’m currently working on [V2 of a gamified productivity app](https://pokidoro.netlify.app/)
 - 🌱 I’m currently learning **full stack web development**
 - 🤝 I’m looking for help with **getting started in open source project**
 - 📫 How to reach me **jcgriendt@gmail.com**

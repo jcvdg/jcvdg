@@ -1,8 +1,10 @@
-### Hi 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
+**Glad to see you here!**
 
 I'm Jeannie, a fullstack engineer
 
-- 🔭 I’m currently working on [V2 of a gamified productivity app](https://pokidoro.netlify.app/)
+- 🔭 I’m currently working on [V2 of a gamified productivity app](https://github.com/jcvdg/pokidoro). Checkout V1 [here](https://pokidoro.netlify.app/)
 - 🌱 I’m currently learning **full stack web development**
 - 🤝 I’m looking for help with **getting started in open source project**
 - 📫 How to reach me **jcgriendt@gmail.com**
